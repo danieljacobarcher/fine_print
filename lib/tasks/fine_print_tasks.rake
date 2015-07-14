@@ -1,6 +1,7 @@
 FINE_PRINT_COPY_TASKS = ['config/locales',
                          'views',
-                         'controllers']
+                         'controllers',
+                         'models']
 
 namespace :fine_print do
   namespace :install do
